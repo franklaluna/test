@@ -6,7 +6,7 @@
 #
 # Structure for table "house"
 #
-
+#this is change test
 DROP TABLE IF EXISTS `house`;
 CREATE TABLE `house` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT COMMENT 'house唯一标识',
